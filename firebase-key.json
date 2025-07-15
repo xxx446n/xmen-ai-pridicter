@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "server-f40a5",
+  "private_key_id": "06bbc22d709ef6ba95ef751cf64c0c6831828a30",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0B...\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-qktzv@server-f40a5.iam.gserviceaccount.com",
+  "client_id": "110799986164395369306",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-qktzv%40server-f40a5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
